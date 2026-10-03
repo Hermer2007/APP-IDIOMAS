@@ -5,9 +5,7 @@ const Tab = createBottomTabNavigator();
 function MyTabs(){
     return(
         <Tab.Navigator>
-            <Tab.Screen
-                name=
-            />
+            
         </Tab.Navigator>
     )
 }
